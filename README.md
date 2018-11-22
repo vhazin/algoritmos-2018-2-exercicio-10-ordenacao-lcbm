@@ -1,8 +1,6 @@
+# [URI Online Judge | 2479](https://www.urionlinejudge.com.br/judge/pt/problems/view/2479): Ordenando a Lista de Crianças do Papai Noel 🎅🎄
 
-
-# URI Online Judge | 2479: Ordenando a Lista de Crianças do Papai Noel 🎅🎄
-
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
+[![forthebadge](https://forthebadge.com/images/badges/60-percent-of-the-time-works-every-time.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/made-with-c.svg)](https://forthebadge.com)
 
 ## Contexto
 
