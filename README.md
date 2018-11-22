@@ -1,5 +1,5 @@
-# URI Online Judge | 2479
-## Ordenando a Lista de Crianças do Papai Noel 🎅🎄
+
+# URI Online Judge | 2479: Ordenando a Lista de Crianças do Papai Noel 🎅🎄
 
 [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
 
@@ -16,6 +16,7 @@ Para 🚑 o 🎅, seu dever é: **criar um programa que** `leia todos os nomes d
 A entrada é composta por vários nomes. O **primeiro valor, N (0 ≤ N ≤ 100)**, `indica quantos nomes tem na lista.` As **N linhas seguintes, contem um caracter especial:** `+ indica` que a criança foi `bem` comportada, `- indica` que a criança **não** foi bem comportada). Após o caracter especial, segue o **nome** da criança `com no máximo 20 caracteres.`
 
 ## Saída
+
 **Para cada lista** de crianças, você deve **imprimir** `os nomes em ordem alfabética.` Após imprimir os nomes das crianças, você deve **mostrar o total** de crianças `que se comportaram bem ou mal durante o ano.`
 
 ## Exemplo
